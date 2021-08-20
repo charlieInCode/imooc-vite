@@ -1,0 +1,33 @@
+{
+  "name": "vite-vue3-tailwind-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview",
+    "lint": "eslint --ext js,jsx,vue src/**"
+  },
+  "dependencies": {
+    "vue": "^3.2.4",
+    "vue-router": "^4.0.11"
+  },
+  "devDependencies": {
+    "@headlessui/vue": "^1.4.0",
+    "@heroicons/vue": "^1.0.4",
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/line-clamp": "^0.2.1",
+    "@tailwindcss/typography": "^0.4.1",
+    "@types/tailwindcss": "^2.2.1",
+    "@vitejs/plugin-vue": "^1.4.0",
+    "@vue/compiler-sfc": "^3.2.4",
+    "autoprefixer": "^10.3.1",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "^7.16.0",
+    "prettier": "^2.3.2",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.5.0"
+  }
+}
