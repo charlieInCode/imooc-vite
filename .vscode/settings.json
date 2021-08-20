@@ -1,5 +1,5 @@
 {
-  // "vetur.validation.style": false,
+  "vetur.validation.style": false,
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   }
