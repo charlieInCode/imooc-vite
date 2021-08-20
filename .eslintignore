@@ -1,2 +1,4 @@
 vite.config.js
 postcss.config.js
+stylelint.config.js
+tailwind.config.js
