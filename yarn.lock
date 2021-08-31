@@ -394,10 +394,10 @@
     "@types/unist" "*"
     "@types/vfile-message" "*"
 
-"@vitejs/plugin-vue@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.4.0.tgz#962ae01b7fd16ad4007898c64ed639136e12215b"
-  integrity sha512-RkqfJHz9wdLKBp5Yi+kQL8BAljdrvPoccQm2PTZc/UcL4EjD11xsv2PPCduYx2oV1a/bpSKA3sD5sxOHFhz+LA==
+"@vitejs/plugin-vue@^1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.5.0.tgz#8b05b84e2e81d64423800541d9cd34245226a60b"
+  integrity sha512-DwTvr9J/SSYHsrTiYTWAaUn0OnqgdINlfuhtxpWHcJVUtxGt07zZylV/ITjfeYgdcUCi0oLD+n9lwLnxlYSGtA==
 
 "@vue/compiler-core@3.2.4":
   version "3.2.4"
