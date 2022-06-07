@@ -8,7 +8,7 @@
     "lint": "eslint --ext js,jsx,vue src/**"
   },
   "dependencies": {
-    "vue": "^3.2.4",
+    "vue": "^3.2.37",
     "vue-router": "^4.0.11"
   },
   "devDependencies": {
